@@ -9,4 +9,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  base: '/e-commerce/', // ده المهم علشان GitHub Pages يشتغل
 })
